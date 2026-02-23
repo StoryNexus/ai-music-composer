@@ -1,5 +1,4 @@
 # AI Music Composer - Python Dependencies
-
 # Core MIDI generation
 midiutil>=1.2.1
 
