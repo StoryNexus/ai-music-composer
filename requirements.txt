@@ -1,0 +1,7 @@
+# AI Music Composer - Python Dependencies
+
+# Core MIDI generation
+midiutil>=1.2.1
+
+# Optional: Music theory and MusicXML support
+# music21>=9.1.0
